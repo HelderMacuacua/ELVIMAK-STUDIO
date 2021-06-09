@@ -1,2 +1,2 @@
 # ELVIMAK-STUDIO
-Feito apenas  em HTML e CSS contendo algumas animações usando ( hover,transiction,scale). É para Iniciantes.
+Feito apenas  em HTML e CSS contendo algumas animações usando ( hover,transition,scale,text-shadow). É para Iniciantes.
