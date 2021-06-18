@@ -8,7 +8,7 @@ body{
 }
 #principal{
 	width: 100%;
-	height: 700px;
+	height: 550px;
 	border-bottom: 5px solid #666;
 	color: #fff;
 }
@@ -21,7 +21,7 @@ header{
 
 #logo{
 	width: 30%;
-	height: 700px;
+	height: 550px;
 	background-color: #555;
 }
 #logo img{
@@ -37,7 +37,7 @@ header{
   transform: scale(1.1);
 }
 figure{
-   height: 700px;
+   height: 550px;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -59,8 +59,7 @@ figure{
 	background-image: url(../img/canon.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: 100%;
-	height: 700px;
+	background-position: 1%;
 }
 
 #fundo h2{
@@ -69,7 +68,7 @@ figure{
 	background-color: rgba(0,0,0,.8);
 	font-size: 2.5em;
 	text-align: center;
-	line-height: 700px;
+	line-height: 550px;
 	box-sizing: border-box;
 	transition: 1s;
 
@@ -83,16 +82,16 @@ figure{
 @media screen and (max-width: 700px){
 	#principal header{
 		flex-direction: column;
-		 height: 1200px;
+		 height: 1100px;
 		 justify-content: center;
 	}
 	#fundo{
 	width: 100%;
-     height: 600px;
+     height: 500px;
 	}
 	#logo{
 	width: 100%;
-	 height: 600px;
+	 height: 500px;
 	}
 	#logo img{
 		background-position: cover;
